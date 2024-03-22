@@ -1,2 +1,2 @@
-Example block header9849
+Block header: 43155
 Serialized coinbase transaction

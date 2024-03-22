@@ -23,7 +23,7 @@ def mine_block(transactions):
     """
     Mine a block with the given transactions.
     """
-    block_header = "Example block header"  # Placeholder for the block header
+    block_header = "Block header: "  # Placeholder for the block header
     nonce = 0
     while True:
         # Update the block header with the nonce
